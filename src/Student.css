@@ -1,0 +1,15 @@
+.student__container {
+  display: block;
+
+  max-width: fit-content;
+  max-height: fit-content;
+}
+
+.btn__student {
+  background-color: blanchedalmond;
+}
+
+.student__table {
+  font-weight: bold;
+  font-size: larger;
+}

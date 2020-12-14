@@ -1,0 +1,10 @@
+. {
+  margin: 0 px;
+}
+.app {
+  margin: auto;
+  background-color: burlywood;
+  max-width: fit-content;
+  max-height: fit-content;
+  align-self: center;
+}
