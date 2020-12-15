@@ -1,3 +1,13 @@
+
+Work in progress:
+1. change to reusable components for button, input box etc.
+2. Add bootstrap to the form.
+
+
+
+
+
+############################################################################################################################################################################
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
